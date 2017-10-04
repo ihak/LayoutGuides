@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					E4F93F981F84A1EA00BC3AAB = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = Q6H55AY6YP;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -260,6 +261,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = Q6H55AY6YP;
 				INFOPLIST_FILE = LayoutGuides/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.ihak.ios.LayoutGuides;
@@ -272,6 +274,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = Q6H55AY6YP;
 				INFOPLIST_FILE = LayoutGuides/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.ihak.ios.LayoutGuides;
